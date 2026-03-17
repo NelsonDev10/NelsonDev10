@@ -2,7 +2,8 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Estudiante+de+Ing.+en+Desarrollo+de+Software;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Estudiante+de+Ing.+en+Desarrollo+de+Software;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80)
+
 </div>
 
 ---
@@ -15,6 +16,7 @@
 - 🌱 Actualmente aprendiendo JavaScript, TypeScript, HTML, CSS, Node.js y bases de datos.
 - 🌐 Me interesa convertirme en desarrollador Fullstack, dominando tanto el frontend como el backend.
 - 🤝 Me gusta aprender en equipo, compartir conocimiento es parte del proceso.
+
 ---
 
 ## 🌐 Redes sociales:
