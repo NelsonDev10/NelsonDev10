@@ -13,13 +13,9 @@
 > *"No es como empiezas, es como terminas."*
 
 - 🎓 Estudiante de 3er año de Ingeniería en Desarrollo de Software.
-- 💡 Desde siempre la tecnología me llamó la atención, y eso me llevó a elegir este camino.
 - 🌱 Actualmente aprendiendo JavaScript, TypeScript, HTML, CSS, Node.js y bases de datos.
-- 🤝 Me gusta aprender en equipo, creo que se avanza más cuando nos ayudamos entre todos.
-- 🎵 Fuera del código me encontrás escuchando música, viendo series, haciendo deporte o compartiendo tiempo con mi familia.
-- 🚀 Cada día es una oportunidad para aprender algo nuevo y acercarme más a mis metas.
 - 🌐 Me interesa convertirme en desarrollador Fullstack, dominando tanto el frontend como el backend.
-- 📁 Aún estoy construyendo mi portafolio, pero cada proyecto de la universidad es un paso más.
+- 🤝 Me gusta aprender en equipo, compartir conocimiento es parte del proceso.
 ---
 
 ## 🌐 Redes sociales:
